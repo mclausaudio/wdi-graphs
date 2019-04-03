@@ -42,3 +42,7 @@ From these examples, these relationships are based on the direction of the edges
 ## Resources
 [A Gentle Introduction to Data Structures: How Graphs Work](https://medium.freecodecamp.org/a-gentle-introduction-to-data-structures-how-graphs-work-a223d9ef8837) 
 
+[Graph Algorithms - Interview Questions](https://www.codementor.io/rishabhdaal/graph-algorithms-interview-questions-du1085u8l)
+
+[From Theory to practice. Representing Graphs.](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38)
+
