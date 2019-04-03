@@ -24,7 +24,7 @@
 
 Graphs can be **undirected** or **directed**.
 
-**Undirected**: if 6 was a friend of 4, 4 would likewise be a friend of 6. The relationship exists in both directions.
+**Undirected**: if 6 was a friend of 4, 4 would likewise be a friend of 6. The relationship exists in both directions :dancers:. 
 
 **Directed**: if 6 has a crush on 4; doesn't necessarily mean 4 has to have a crush on 6. Feelings may not be reciprocal :broken_heart:. 
 
