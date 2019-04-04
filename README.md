@@ -41,7 +41,7 @@ From these examples, these relationships are based on the direction of the edges
 <img width="300" alt="jokes" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
 
 
-Both are algorithms used for traversing or searching tree or graph data structures. DFS (Depth First Search) use stacks and BFS (Breadth First Search) use queues.
+Both are algorithms used for traversing or searching tree or graph data structures. DFS (Depth First Search) use stacks and BFS (Breadth First Search use queues.
 
 <img width="651" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bsvds.gif">
 
@@ -72,6 +72,44 @@ Both are algorithms used for traversing or searching tree or graph data structur
     - Broadcasting in Network
 
   <img width="400" alt="" src="https://github.com/mclausaudio/wdi-graphs/blob/master/BFS.gif">
+  
+  **Interview Questions**
+  
+  What does this graph look like?
+  
+  <img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-04%20at%209.08.24%20AM.png?raw=true">
+  
+ 
+ Something like this:
+
+<img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-03%20at%2011.12.31%20AM.png?raw=true">
+
+
+
+What type of graph is this?
+<img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-04%20at%209.09.50%20AM.png?raw=true">
+
+It is an undirected graph.
+
+
+
+
+What kind of graph is this?
+
+<img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-04%20at%209.10.11%20AM.png?raw=true">
+
+You need to get from 0 to 3.  What is the best route to take?  Take 'weight' into consideration.
+
+<img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-04%20at%209.10.50%20AM.png?raw=true">
+
+
+The best route is 0 -> 1 -> 3
+
+<img width="400" src="https://github.com/mclausaudio/wdi-graphs/blob/master/Screen%20Shot%202019-04-04%20at%209.10.55%20AM.png?raw=true">
+
+
+
+
   
 
 
