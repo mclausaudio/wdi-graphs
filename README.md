@@ -38,14 +38,14 @@ From these examples, these relationships are based on the direction of the edges
 
 ## Breadth First Search Vs Depth First Search 
 
-<img width="300" position="center" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
+<img width="300" alt="jokes" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
 
 
 Both are algorithms used for traversing or searching tree or graph data structures. DFS (Depth First Search) use stacks and BFS (Breadth First Search use queues.
 
 <img width="651" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bsvds.gif">
 
-**Depth Search**
+**Depth First Search**
 
  - Begins at a root node and will explore all possible branches of the most adjacent node before backtracking to search through the next adjacent node if present. (Recursive Algorithm)
  - Because it uses a stack to search through paths, it will use a LIFO method to search each path. The root node will be the last to exit the stack 
@@ -55,6 +55,23 @@ Both are algorithms used for traversing or searching tree or graph data structur
     - Path Finding
     - Topological Sorting
     - Solving puzzles with only one solution(Like a Maze)
+    
+  <img width="200" alt="" src="https://github.com/mclausaudio/wdi-graphs/blob/master/maze.gif">
+
+    
+**Breadth First Search**
+
+ - Begins at a the "search key" node and will explore all neighbor nodes at the present depth prior to moving on to the nodes at the next level
+ - Unlike the DFS, it will not backtrack because BFS uses queues (FIFO method) to search paths.
+ 
+   **Applications for BFS**
+    - Finding the shortest path between nodes
+    - Peer to Peer Networks
+    - Social Networking Sites
+    - GPS Navigation
+    - Broadcasting in Network
+
+  <img width="200" alt="" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bfs.gif">
 
 
 
@@ -67,5 +84,9 @@ Both are algorithms used for traversing or searching tree or graph data structur
 [From Theory to practice. Representing Graphs.](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38)
 
 [Graph Algorithms - Interview Questions](https://www.codementor.io/rishabhdaal/graph-algorithms-interview-questions-du1085u8l)
+
+[Graph Data Structures for Beginners](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/#Breadth-first-search-BFS-Graph-search)
+
+
 
 
