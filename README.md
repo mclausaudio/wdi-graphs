@@ -71,7 +71,7 @@ Both are algorithms used for traversing or searching tree or graph data structur
     - GPS Navigation
     - Broadcasting in Network
 
-  <img width="200" alt="" src="https://github.com/mclausaudio/wdi-graphs/blob/master/BFS.gif">
+  <img width="400" alt="" src="https://github.com/mclausaudio/wdi-graphs/blob/master/BFS.gif">
   
 
 
