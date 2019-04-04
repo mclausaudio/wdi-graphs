@@ -1,9 +1,14 @@
 # wdi-graphs
 
+## Graph Definition
+Graph data structure consists of a finite set of vertices, together with a set of unordered pairs of these vertices for an undirected graph or a set of ordered pairs for a directed graph. 
 
+These pairs are known as edges, and for a directed graph are also known as arrows. 
 
-
-
+## Real life uses of Graphs
+Transportation networks
+Facebook Social connections
+Google Maps 
 
 
 ## Graph Components
