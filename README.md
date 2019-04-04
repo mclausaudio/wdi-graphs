@@ -6,9 +6,9 @@ Graph data structure consists of a finite set of vertices, together with a set o
 These pairs are known as edges, and for a directed graph are also known as arrows. 
 
 ## Real life uses of Graphs
-Transportation networks
-Facebook Social connections
-Google Maps 
++ Transportation networks
++ Facebook Social connections
++ Google Maps 
 
 
 ## Graph Components
