@@ -49,7 +49,8 @@ Both are algorithms used for traversing or searching tree or graph data structur
 
  - Begins at a root node and will explore all possible branches of the most adjacent node before backtracking to search through the next adjacent node if present. (Recursive Algorithm)
  - Because it uses a stack to search through paths, it will use a LIFO method to search each path. The root node will be the last to exit the stack 
-   Applications for DFS 
+ 
+   **Applications for DFS**
     - Detecting a cycle in a graph
     - Path Finding
     - Topological Sorting
