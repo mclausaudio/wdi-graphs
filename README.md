@@ -38,7 +38,7 @@ From these examples, these relationships are based on the direction of the edges
 
 ## Breadth First Search Vs Depth First Search 
 
-<img width="651" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
+<img width="300" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
 
 
 Both are algorithms used for traversing or searching tree or graph data structures. DFS (Depth First Search) use stacks and BFS (Breadth First Search use queues.
@@ -47,7 +47,13 @@ Both are algorithms used for traversing or searching tree or graph data structur
 
 **Depth Search**
 
- 
+ - Begins at a root node and will explore all possible branches of the most adjacent node before backtracking to search through the next adjacent node if present. (Recursive Algorithm)
+ - Because it uses a stack to search through paths, it will use a LIFO method to search each path. The root node will be the last to exit the stack 
+   Applications for DFS 
+    - Detecting a cycle in a graph
+    - Path Finding
+    - Topological Sorting
+    - Solving puzzles with only one solution(Like a Maze)
 
 
 
