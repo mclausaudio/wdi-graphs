@@ -38,12 +38,12 @@ From these examples, these relationships are based on the direction of the edges
 
 ## Breadth First Search Vs Depth First Search 
 
-<img width="300" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
+<img width="300" position="center" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/laugh.gif">
 
 
 Both are algorithms used for traversing or searching tree or graph data structures. DFS (Depth First Search) use stacks and BFS (Breadth First Search use queues.
 
-<img width="651" position="center" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bsvds.gif">
+<img width="651" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bsvds.gif">
 
 **Depth Search**
 
