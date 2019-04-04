@@ -36,7 +36,10 @@ Graphs can be **undirected** or **directed**.
 From these examples, these relationships are based on the direction of the edges. It can be a one way or two way relationship but it must be stated.
 
 
+## Breadth First Search Vs Depth First Search 
 
+
+<img width="651" alt="graph example" src="https://github.com/mclausaudio/wdi-graphs/blob/master/bsvds.gif">
 
 
 
